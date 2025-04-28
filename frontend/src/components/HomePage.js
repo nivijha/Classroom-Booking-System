@@ -47,7 +47,7 @@ const HomePage = () => {
       >
         {/* <i className="fa fa-graduation-cap fa-5x"></i> */}
         <h2 style={{ fontSize: "3rem", fontWeight: "bold" }}>
-          Classroom Booking system
+          Venue Booking System
         </h2>
         <div>
           <Button
